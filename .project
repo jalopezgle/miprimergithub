@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Recopilatorio</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>Martin_-_Clean_Code_-_A_Handbook_of_Agile_Software_Craftsmanship.pdf</name>
+			<type>1</type>
+			<locationURI>PARENT-4-PROJECT_LOC/Descargas/Martin_-_Clean_Code_-_A_Handbook_of_Agile_Software_Craftsmanship.pdf</locationURI>
+		</link>
+		<link>
+			<name>Seleccion</name>
+			<type>2</type>
+			<locationURI>PARENT-4-PROJECT_LOC/Descargas/Libros/Seleccion</locationURI>
+		</link>
+		<link>
+			<name>Descargas/04 JSF.pdf</name>
+			<type>1</type>
+			<locationURI>PARENT-4-PROJECT_LOC/Descargas/04%20JSF.pdf</locationURI>
+		</link>
+		<link>
+			<name>Descargas/100 Beginner WordPress Tips.pdf</name>
+			<type>1</type>
+			<locationURI>PARENT-4-PROJECT_LOC/Descargas/100%20Beginner%20WordPress%20Tips.pdf</locationURI>
+		</link>
+		<link>
+			<name>Descargas/2 Wiley - j2Ee Best Practices - Java Design Patterns, Automation, And Performance.pdf</name>
+			<type>1</type>
+			<locationURI>PARENT-4-PROJECT_LOC/Descargas/2%20Wiley%20-%20j2Ee%20Best%20Practices%20-%20Java%20Design%20Patterns,%20Automation,%20And%20Performance.pdf</locationURI>
+		</link>
+		<link>
+			<name>Descargas/CSS - The Missing Manual, Second Edition.pdf</name>
+			<type>1</type>
+			<locationURI>PARENT-4-PROJECT_LOC/Descargas/CSS%20-%20The%20Missing%20Manual,%20Second%20Edition.pdf</locationURI>
+		</link>
+		<link>
+			<name>Descargas/Creating iPhone Apps with Cocoa Touch The Mini Missing Manual-MANTESH.pdf</name>
+			<type>1</type>
+			<locationURI>PARENT-4-PROJECT_LOC/Descargas/Creating%20iPhone%20Apps%20with%20Cocoa%20Touch%20The%20Mini%20Missing%20Manual-MANTESH.pdf</locationURI>
+		</link>
+		<link>
+			<name>Descargas/Cuestionarios Opos</name>
+			<type>2</type>
+			<locationURI>PARENT-4-PROJECT_LOC/Descargas/Cuestionarios%20Opos</locationURI>
+		</link>
+		<link>
+			<name>Descargas/Digging into WordPress, 8th edition.pdf</name>
+			<type>1</type>
+			<locationURI>PARENT-4-PROJECT_LOC/Descargas/Digging%20into%20WordPress,%208th%20edition.pdf</locationURI>
+		</link>
+		<link>
+			<name>Descargas/In-Flight French</name>
+			<type>2</type>
+			<locationURI>PARENT-4-PROJECT_LOC/Descargas/Otros%20idiomas/In-Flight%20French</locationURI>
+		</link>
+		<link>
+			<name>Descargas/Informática</name>
+			<type>2</type>
+			<locationURI>PARENT-4-PROJECT_LOC/Descargas/Libros/Inform%C3%A1tica</locationURI>
+		</link>
+		<link>
+			<name>Descargas/Metodologias</name>
+			<type>2</type>
+			<locationURI>PARENT-4-PROJECT_LOC/Descargas/Libros/Metodologias</locationURI>
+		</link>
+		<link>
+			<name>Descargas/Revista_Solo_Programadores_120</name>
+			<type>2</type>
+			<locationURI>PARENT-4-PROJECT_LOC/Descargas/Revista_Solo_Programadores_120</locationURI>
+		</link>
+		<link>
+			<name>Descargas/Social Network Data Analytics.pdf</name>
+			<type>1</type>
+			<locationURI>PARENT-4-PROJECT_LOC/Descargas/Social%20Network%20Data%20Analytics.pdf</locationURI>
+		</link>
+		<link>
+			<name>Descargas/Wiley-Professional.WordPress.Plugin.Development.2011.pdf</name>
+			<type>1</type>
+			<locationURI>PARENT-4-PROJECT_LOC/Descargas/Wiley-Professional.WordPress.Plugin.Development.2011.pdf</locationURI>
+		</link>
+		<link>
+			<name>Descargas/Wiley.Smashing.jQuery.Feb.2011.pdf</name>
+			<type>1</type>
+			<locationURI>PARENT-4-PROJECT_LOC/Descargas/Wiley.Smashing.jQuery.Feb.2011.pdf</locationURI>
+		</link>
+		<link>
+			<name>Descargas/WordPress for Web Developers.pdf</name>
+			<type>1</type>
+			<locationURI>PARENT-4-PROJECT_LOC/Descargas/WordPress%20for%20Web%20Developers.pdf</locationURI>
+		</link>
+		<link>
+			<name>Descargas/WordPress-Ebook.pdf</name>
+			<type>1</type>
+			<locationURI>PARENT-4-PROJECT_LOC/Descargas/WordPress-Ebook.pdf</locationURI>
+		</link>
+		<link>
+			<name>Descargas/book - 2011 - rada mihalcea - graph-based natural language processing and information retrieval .pdf</name>
+			<type>1</type>
+			<locationURI>PARENT-4-PROJECT_LOC/Descargas/book%20-%202011%20-%20rada%20mihalcea%20-%20graph-based%20natural%20language%20processing%20and%20information%20retrieval%20.pdf</locationURI>
+		</link>
+		<link>
+			<name>Descargas/cloud computing principles and paradigms (wiley series on parallel and distributed computing).pdf</name>
+			<type>1</type>
+			<locationURI>PARENT-4-PROJECT_LOC/Descargas/cloud%20computing%20principles%20and%20paradigms%20(wiley%20series%20on%20parallel%20and%20distributed%20computing).pdf</locationURI>
+		</link>
+		<link>
+			<name>Descargas/jQuery_Cookbook.pdf</name>
+			<type>1</type>
+			<locationURI>PARENT-4-PROJECT_LOC/Descargas/jQuery_Cookbook.pdf</locationURI>
+		</link>
+		<link>
+			<name>Descargas/professional-android-application-development-wrox-programmer-to-programmer-9780470344712-40550.pdf</name>
+			<type>1</type>
+			<locationURI>PARENT-4-PROJECT_LOC/Descargas/professional-android-application-development-wrox-programmer-to-programmer-9780470344712-40550.pdf</locationURI>
+		</link>
+		<link>
+			<name>Descargas/wordpress from beginner to expert.pdf</name>
+			<type>1</type>
+			<locationURI>PARENT-4-PROJECT_LOC/Descargas/wordpress%20from%20beginner%20to%20expert.pdf</locationURI>
+		</link>
+		<link>
+			<name>Descargas2/CD-4715.pdf</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Downloads/CD-4715.pdf</locationURI>
+		</link>
+		<link>
+			<name>Descargas2/Las_TIC_en_la_estrategia_empresarial.pdf</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Downloads/Las_TIC_en_la_estrategia_empresarial.pdf</locationURI>
+		</link>
+		<link>
+			<name>Descargas2/addison wesley  - a programmer&apos;s guide to java certification. second edition.chm</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Downloads/addison%20wesley%20%20-%20a%20programmer&apos;s%20guide%20to%20java%20certification.%20second%20edition.chm</locationURI>
+		</link>
+		<link>
+			<name>Descargas2/seo-optimizacion-buscadores-web.pdf</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Downloads/seo-optimizacion-buscadores-web.pdf</locationURI>
+		</link>
+		<link>
+			<name>Enlaces/EXIN - Turn your skills into reputation - Inicio.url</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Favorites/EXIN%20-%20Turn%20your%20skills%20into%20reputation%20-%20Inicio.url</locationURI>
+		</link>
+		<link>
+			<name>Enlaces/Examen de CSS completo.url</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Favorites/Examen%20de%20CSS%20completo.url</locationURI>
+		</link>
+		<link>
+			<name>Enlaces/Fundación EUCIP España.url</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Favorites/Curso%20Visual%20C%23/Fundaci%C3%B3n%20EUCIP%20Espa%C3%B1a.url</locationURI>
+		</link>
+		<link>
+			<name>Enlaces/Inicio - Android Programación Aplicaciones para móviles.url</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Favorites/Curso%20de%20Android/Inicio%20-%20Android%20Programaci%C3%B3n%20Aplicaciones%20para%20m%C3%B3viles.url</locationURI>
+		</link>
+		<link>
+			<name>Enlaces/Introducción al desarrollo web - iDESWEB.url</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Favorites/Miriadax%20Desarrollo%20Web/Introducci%C3%B3n%20al%20desarrollo%20web%20-%20iDESWEB.url</locationURI>
+		</link>
+		<link>
+			<name>Enlaces/Manuales .NET  Manual C#.url</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Favorites/Curso%20Visual%20C%23/Manuales%20.NET%20%20Manual%20C%23.url</locationURI>
+		</link>
+		<link>
+			<name>Enlaces/Node, Express y MongoDB Crea un API REST en JavaScript server-side de forma rápida, sencilla y eficiente.url</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Favorites/Programacion/Node,%20Express%20y%20MongoDB%20Crea%20un%20API%20REST%20en%20JavaScript%20server-side%20de%20forma%20r%C3%A1pida,%20sencilla%20y%20eficiente.url</locationURI>
+		</link>
+		<link>
+			<name>Enlaces/SANROMAN consultora líder en aportar soluciones en el ámbito de la FORMACIÓN.url</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Favorites/Programacion/SANROMAN%20consultora%20l%C3%ADder%20en%20aportar%20soluciones%20en%20el%20%C3%A1mbito%20de%20la%20FORMACI%C3%93N.url</locationURI>
+		</link>
+		<link>
+			<name>Enlaces/Smashing Magazine — For Professional Web Designers and Developers.url</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Favorites/Smashing%20Magazine%20%E2%80%94%20For%20Professional%20Web%20Designers%20and%20Developers.url</locationURI>
+		</link>
+		<link>
+			<name>Enlaces/Video4elearning Cursos en Video Elearning.url</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Favorites/Programacion/Video4elearning%20Cursos%20en%20Video%20Elearning.url</locationURI>
+		</link>
+		<link>
+			<name>Enlaces/W3Schools Online Web Tutorials.url</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Favorites/Miriadax%20Desarrollo%20Web/W3Schools%20Online%20Web%20Tutorials.url</locationURI>
+		</link>
+		<link>
+			<name>Escriorio/1008.2542_patrones de diseño.pdf</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/Descargas/1008.2542_patrones%20de%20dise%C3%B1o.pdf</locationURI>
+		</link>
+		<link>
+			<name>Escriorio/Biblia_De_Los_Trucos_Para_Windows_E_Internet.pdf</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/Descargas/Biblia_De_Los_Trucos_Para_Windows_E_Internet.pdf</locationURI>
+		</link>
+		<link>
+			<name>Escriorio/Cursos</name>
+			<type>2</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/Descargas/1ndr0/Cursos</locationURI>
+		</link>
+		<link>
+			<name>Escriorio/FAQ Mind - CoDePedia.pdf</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/Descargas/1ndr0/FAQ%20Mind%20-%20CoDePedia.pdf</locationURI>
+		</link>
+		<link>
+			<name>Escriorio/Fundamentos ITIL V3_Alumno_C_notxt.pdf</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/Descargas/1ndr0/Fundamentos%20ITIL%20V3_Alumno_C_notxt.pdf</locationURI>
+		</link>
+		<link>
+			<name>Escriorio/Manual-SVDRI.pdf</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/Descargas/Manual-SVDRI.pdf</locationURI>
+		</link>
+		<link>
+			<name>Escriorio/Metodologia Desarrollo Sofware CCD</name>
+			<type>2</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/Descargas/Metrica/Metodologia%20Desarrollo%20Sofware%20CCD</locationURI>
+		</link>
+		<link>
+			<name>Escriorio/Oracle</name>
+			<type>2</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/Descargas/Oracle</locationURI>
+		</link>
+		<link>
+			<name>Escriorio/Plantillas</name>
+			<type>2</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/Descargas/Plantillas</locationURI>
+		</link>
+		<link>
+			<name>Escriorio/ProyectTur</name>
+			<type>2</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/Descargas/ProyectTur</locationURI>
+		</link>
+		<link>
+			<name>Escriorio/Proyectos</name>
+			<type>2</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/Descargas/Proyectos</locationURI>
+		</link>
+		<link>
+			<name>Escriorio/Spring</name>
+			<type>2</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/Descargas/Spring</locationURI>
+		</link>
+		<link>
+			<name>Escriorio/disenoAgilConTDD.pdf</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/Descargas/TDD/disenoAgilConTDD.pdf</locationURI>
+		</link>
+		<link>
+			<name>Escriorio/get_file.pdf</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/Descargas/get_file.pdf</locationURI>
+		</link>
+		<link>
+			<name>Escriorio/manual_capacitacion_signature_server_piloto_v2.1_12_07_2011.pdf</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/Descargas/manual_capacitacion_signature_server_piloto_v2.1_12_07_2011.pdf</locationURI>
+		</link>
+		<link>
+			<name>Escriorio/pfc diseño framework de persistencia.pdf</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/Descargas/pfc%20dise%C3%B1o%20framework%20de%20persistencia.pdf</locationURI>
+		</link>
+		<link>
+			<name>Iomega/09%20-%20Autenticacion%20basada%20en%20certificados%20digitales_votaciones.pdf</name>
+			<type>1</type>
+			<location>F:/Proyectos informaticos libros/Proyectos/09%20-%20Autenticacion%20basada%20en%20certificados%20digitales_votaciones.pdf</location>
+		</link>
+		<link>
+			<name>Iomega/61422.pdf</name>
+			<type>1</type>
+			<location>F:/Oficina2010/Cosas/61422.pdf</location>
+		</link>
+		<link>
+			<name>Iomega/Biblia_De_Los_Trucos_Para_Windows_E_Internet.pdf</name>
+			<type>1</type>
+			<location>F:/Oficina2010/Cosas/Biblia_De_Los_Trucos_Para_Windows_E_Internet.pdf</location>
+		</link>
+		<link>
+			<name>Iomega/Curso ITIL 2009</name>
+			<type>2</type>
+			<location>F:/Oficina2010/Mis documentos/Curso ITIL 2009</location>
+		</link>
+		<link>
+			<name>Iomega/Curso de AMARA</name>
+			<type>2</type>
+			<location>F:/Oficina2010/Mis documentos/Curso de AMARA</location>
+		</link>
+		<link>
+			<name>Iomega/Curso de Java</name>
+			<type>2</type>
+			<location>F:/Oficina2010/Mis documentos/Curso de Java</location>
+		</link>
+		<link>
+			<name>Iomega/Curso de TECNICAS AVANZADAS DE DESARROLLO.doc</name>
+			<type>1</type>
+			<location>F:/Oficina2010/Mis documentos/Curso de TECNICAS AVANZADAS DE DESARROLLO.doc</location>
+		</link>
+		<link>
+			<name>Iomega/Curso tecnicas de desarrollo.doc</name>
+			<type>1</type>
+			<location>F:/Oficina2010/Mis documentos/Curso tecnicas de desarrollo.doc</location>
+		</link>
+		<link>
+			<name>Iomega/Docs</name>
+			<type>2</type>
+			<location>F:/Oficina2010/Cosas/Docs</location>
+		</link>
+		<link>
+			<name>Iomega/Eclipse_notas.doc</name>
+			<type>1</type>
+			<location>F:/Oficina2010/Mis documentos/Eclipse_notas.doc</location>
+		</link>
+		<link>
+			<name>Iomega/ITIL.xls</name>
+			<type>1</type>
+			<location>F:/Oficina2010/Mis documentos/ITIL.xls</location>
+		</link>
+		<link>
+			<name>Iomega/Iniciacion_a_Spring.pdf</name>
+			<type>1</type>
+			<location>F:/Oficina2010/Cosas/Iniciacion_a_Spring.pdf</location>
+		</link>
+		<link>
+			<name>Iomega/JB INFORMATICA PROFESIONAL.xls</name>
+			<type>1</type>
+			<location>F:/Plantillas informatica/JB INFORMATICA PROFESIONAL.xls</location>
+		</link>
+		<link>
+			<name>Iomega/JasperReports For Java Developers_alberto.pdf</name>
+			<type>1</type>
+			<location>F:/Oficina2010/Cosas/Docs/JasperReports For Java Developers_alberto.pdf</location>
+		</link>
+		<link>
+			<name>Iomega/ManualHibernate.pdf</name>
+			<type>1</type>
+			<location>F:/Oficina2010/Cosas/ManualHibernate.pdf</location>
+		</link>
+		<link>
+			<name>Iomega/ManualUsuarioCast_mosktt.pdf</name>
+			<type>1</type>
+			<location>F:/Oficina2010/Cosas/Docs/ManualUsuarioCast_mosktt.pdf</location>
+		</link>
+		<link>
+			<name>Iomega/PFC_David López Carrasco_2010_METODOLOGIA.pdf</name>
+			<type>1</type>
+			<location>F:/Proyectos informaticos libros/Proyectos/PFC_David López Carrasco_2010_METODOLOGIA.pdf</location>
+		</link>
+		<link>
+			<name>Iomega/PLANTILLAS INFORMATICA</name>
+			<type>2</type>
+			<location>F:/Plantillas informatica/PLANTILLAS INFORMATICA</location>
+		</link>
+		<link>
+			<name>Iomega/Patrones J2EE.pdf</name>
+			<type>1</type>
+			<location>F:/Oficina2010/Cosas/Patrones J2EE.pdf</location>
+		</link>
+		<link>
+			<name>Iomega/REGISTRO_TELEMATICO</name>
+			<type>2</type>
+			<location>F:/Oficina2010/Mis documentos/REGISTRO_TELEMATICO</location>
+		</link>
+		<link>
+			<name>Iomega/Registro telematico y admin electronica</name>
+			<type>2</type>
+			<location>F:/Oficina2010/Mis documentos/Registro telematico y admin electronica</location>
+		</link>
+		<link>
+			<name>Iomega/Todo Oracle</name>
+			<type>2</type>
+			<location>F:/Todo/Todo Oracle</location>
+		</link>
+		<link>
+			<name>Iomega/bmfciv182d_firma_digital.pdf</name>
+			<type>1</type>
+			<location>F:/Proyectos informaticos libros/Proyectos/bmfciv182d_firma_digital.pdf</location>
+		</link>
+		<link>
+			<name>Iomega/cf-quezada_av.pdf</name>
+			<type>1</type>
+			<location>F:/Proyectos informaticos libros/cf-quezada_av.pdf</location>
+		</link>
+		<link>
+			<name>Iomega/java-intro-struts.pdf</name>
+			<type>1</type>
+			<location>F:/Oficina2010/Cosas/java-intro-struts.pdf</location>
+		</link>
+		<link>
+			<name>Iomega/java-servlets-jdbc.pdf</name>
+			<type>1</type>
+			<location>F:/Oficina2010/Cosas/java-servlets-jdbc.pdf</location>
+		</link>
+		<link>
+			<name>Iomega/memoria_administracione.pdf</name>
+			<type>1</type>
+			<location>F:/Proyectos informaticos libros/Proyectos/memoria_administracione.pdf</location>
+		</link>
+		<link>
+			<name>Iomega/memoria_eurodis.pdf</name>
+			<type>1</type>
+			<location>F:/Proyectos informaticos libros/Proyectos/memoria_eurodis.pdf</location>
+		</link>
+		<link>
+			<name>Iomega/spring-reference.pdf</name>
+			<type>1</type>
+			<location>F:/Oficina2010/Cosas/spring-reference.pdf</location>
+		</link>
+		<link>
+			<name>Iomega2/0Android</name>
+			<type>2</type>
+			<location>F:/0Android</location>
+		</link>
+		<link>
+			<name>Iomega2/0SCRUM</name>
+			<type>2</type>
+			<location>F:/0SCRUM</location>
+		</link>
+		<link>
+			<name>Iomega2/0racle</name>
+			<type>2</type>
+			<location>F:/0racle</location>
+		</link>
+		<link>
+			<name>Iomega2/EDUJAF</name>
+			<type>2</type>
+			<location>F:/Oficina 2011/Descargas/EDUJAF</location>
+		</link>
+		<link>
+			<name>Iomega2/JAVABOOKS</name>
+			<type>2</type>
+			<location>F:/JAVABOOKS</location>
+		</link>
+		<link>
+			<name>Iomega2/Java</name>
+			<type>2</type>
+			<location>F:/Java</location>
+		</link>
+		<link>
+			<name>Iomega2/Libros informatica</name>
+			<type>2</type>
+			<location>F:/Libros informatica</location>
+		</link>
+		<link>
+			<name>Iomega2/eBooks Collection (Microsoft Windows)</name>
+			<type>2</type>
+			<location>F:/eBooks Collection (Microsoft Windows)</location>
+		</link>
+		<link>
+			<name>Iomega2/islamauricio.htm</name>
+			<type>1</type>
+			<location>F:/0Viajes/VIAJES/islamauricio.htm</location>
+		</link>
+		<link>
+			<name>Libreria/ford_src_complete.zip</name>
+			<type>1</type>
+			<locationURI>PARENT-4-PROJECT_LOC/Descargas/ford_src_complete.zip</locationURI>
+		</link>
+		<link>
+			<name>MisDocumentos/2021 comic.pdf</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Documents/2021%20comic.pdf</locationURI>
+		</link>
+		<link>
+			<name>MisDocumentos/Curso MIT sw</name>
+			<type>2</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Documents/Curso%20MIT%20sw</locationURI>
+		</link>
+		<link>
+			<name>MisDocumentos/Hangout personalizar wordpress.docx</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Documents/Hangout%20personalizar%20wordpress.docx</locationURI>
+		</link>
+		<link>
+			<name>MisDocumentos/Indra IOS Junio 2014</name>
+			<type>2</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Documents/Indra%20IOS%20Junio%202014</locationURI>
+		</link>
+		<link>
+			<name>MisDocumentos/Memoria ibatis.pdf</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Documents/Memoria%20ibatis.pdf</locationURI>
+		</link>
+		<link>
+			<name>MisDocumentos/memoria.pdf</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Documents/memoria.pdf</locationURI>
+		</link>
+		<link>
+			<name>Negro/2010AJIEE-30.pdf</name>
+			<type>1</type>
+			<location>F:/Educacion Backup 2014/Descargas/2010AJIEE-30.pdf</location>
+		</link>
+		<link>
+			<name>Negro/CD-2887.pdf</name>
+			<type>1</type>
+			<location>F:/Educacion Backup 2014/Descargas/CD-2887.pdf</location>
+		</link>
+		<link>
+			<name>Negro/CD-5042.pdf</name>
+			<type>1</type>
+			<location>F:/Educacion Backup 2014/Descargas/CD-5042.pdf</location>
+		</link>
+		<link>
+			<name>Negro/CD-5073.pdf</name>
+			<type>1</type>
+			<location>F:/Educacion Backup 2014/Descargas/CD-5073.pdf</location>
+		</link>
+		<link>
+			<name>Negro/CE_v4_SP.pdf</name>
+			<type>1</type>
+			<location>F:/Educacion Backup 2014/Descargas/CE_v4_SP.pdf</location>
+		</link>
+		<link>
+			<name>Negro/EBookPressman__Software_Engineering.pdf</name>
+			<type>1</type>
+			<location>F:/Educacion Backup 2014/Descargas/EBookPressman__Software_Engineering.pdf</location>
+		</link>
+		<link>
+			<name>Negro/Ext.JS.4.First.Look.pdf</name>
+			<type>1</type>
+			<location>F:/Educacion Backup 2014/Descargas/Ext.JS.4.First.Look.pdf</location>
+		</link>
+		<link>
+			<name>Negro/Ingenieria del Software -Roger Pressman 6th.Ed.pdf</name>
+			<type>1</type>
+			<location>F:/Educacion Backup 2014/Descargas/Ingenieria del Software -Roger Pressman 6th.Ed.pdf</location>
+		</link>
+		<link>
+			<name>Negro/TalismanCrisPelayo.pdf</name>
+			<type>1</type>
+			<location>F:/Educacion Backup 2014/Descargas/TalismanCrisPelayo.pdf</location>
+		</link>
+		<link>
+			<name>Iomega/ProyectosEjemplos/Eclipse_gal_wks_2</name>
+			<type>2</type>
+			<location>F:/Oficina2010/Mis documentos/Eclipse_gal_wks_2</location>
+		</link>
+		<link>
+			<name>Iomega/ProyectosEjemplos/Eclipse_wks</name>
+			<type>2</type>
+			<location>F:/Oficina2010/Mis documentos/Eclipse_wks</location>
+		</link>
+		<link>
+			<name>Iomega/ProyectosEjemplos/Ejemplos Hibernate</name>
+			<type>2</type>
+			<location>F:/Oficina2010/Cosas/Ejemplos Hibernate</location>
+		</link>
+		<link>
+			<name>Iomega/ProyectosEjemplos/Jasperreports</name>
+			<type>2</type>
+			<location>F:/Oficina2010/Cosas/Jasperreports</location>
+		</link>
+		<link>
+			<name>Iomega/ProyectosEjemplos/componentes</name>
+			<type>2</type>
+			<location>F:/Oficina2010/Mis documentos/componentes</location>
+		</link>
+		<link>
+			<name>Iomega/ProyectosEjemplos/hibernate_ejemplomhurtado.zip</name>
+			<type>1</type>
+			<location>F:/Oficina2010/Mis documentos/hibernate_ejemplomhurtado.zip</location>
+		</link>
+		<link>
+			<name>Iomega2/ProyectosJava/Exemplos</name>
+			<type>2</type>
+			<location>F:/Exemplos</location>
+		</link>
+		<link>
+			<name>Negro/Workspacess/SerSubsecretaria</name>
+			<type>2</type>
+			<location>F:/Educacion Backup 2014/SerSubsecretaria</location>
+		</link>
+		<link>
+			<name>Negro/Workspacess/workspace</name>
+			<type>2</type>
+			<location>F:/Educacion Backup 2014/workspace</location>
+		</link>
+	</linkedResources>
+</projectDescription>
